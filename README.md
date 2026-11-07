@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1f6feb,100:0D1117&height=220&section=header&text=Mehul%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Analytics&descSize=20&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1f6feb,100:0D1117&height=220&section=header&text=Mehul%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Analytics&descSize=20&descAlignY=60&animation=twinkling" width="100%"/>
 
 <div align="center">
 
@@ -65,6 +65,20 @@ I'm an **Electronics & Communication Engineering** student who found his way int
 | 🌱 Learning | 🚀 Building | 🤝 Looking For |
 |:---:|:---:|:---:|
 | Clustering, PCA, model deployment | Distinctive ML projects beyond the usual churn and house-price ones | Data Science and AI/ML internships |
+
+<br/>
+
+## 🔥 Active Days
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MehulGupta03/MehulGupta03/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MehulGupta03/MehulGupta03/output/github-snake.svg" />
+  <img alt="Contribution heatmap with snake animation" src="https://raw.githubusercontent.com/MehulGupta03/MehulGupta03/output/github-snake-dark.svg" width="95%" />
+</picture>
+
+</div>
 
 <br/>
 
