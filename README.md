@@ -18,7 +18,7 @@
 
 I'm an **Electronics & Communication Engineering** student who found his way into **data science and machine learning**. I enjoy taking a messy dataset, finding the story in it, and turning a model into something clean and usable.
 
-- 🎓 B.Tech ECE, **KIET Group of Institutions**
+- 🎓 B.Tech ECE, **AKTU**
 - 📊 BS in Data Science, **IIT Madras**
 - 🤖 Focus: ML, deep learning, NLP, data analysis, visualization
 - 🎯 Looking for **Data Science / AI-ML internships**
@@ -68,15 +68,29 @@ I'm an **Electronics & Communication Engineering** student who found his way int
 
 <br/>
 
-## 🔥 Active Days
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1f6feb,100:0D1117&height=70&section=header&text=%F0%9F%94%A5%20ACTIVE%20DAYS&fontSize=26&fontColor=ffffff&fontAlignY=55" width="60%"/>
+
+<img src="https://streak-stats.demolab.com?user=MehulGupta03&theme=tokyonight&hide_border=true&background=0D1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=8b949e&dates=8b949e" width="85%" />
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MehulGupta03/MehulGupta03/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MehulGupta03/MehulGupta03/output/github-snake.svg" />
   <img alt="Contribution heatmap with snake animation" src="https://raw.githubusercontent.com/MehulGupta03/MehulGupta03/output/github-snake-dark.svg" width="95%" />
 </picture>
+
+<br/>
+
+![Less](https://img.shields.io/badge/Less-161b22?style=flat-square)
+![](https://img.shields.io/badge/-0e4429?style=flat-square)
+![](https://img.shields.io/badge/-006d32?style=flat-square)
+![](https://img.shields.io/badge/-26a641?style=flat-square)
+![More](https://img.shields.io/badge/More-39d353?style=flat-square)
+
+*Consistency beats intensity. One commit a day adds up.*
 
 </div>
 
@@ -88,8 +102,6 @@ I'm an **Electronics & Communication Engineering** student who found his way int
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=MehulGupta03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=1f6feb" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehulGupta03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff" />
-
-<img src="https://streak-stats.demolab.com?user=MehulGupta03&theme=tokyonight&hide_border=true&background=0D1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MehulGupta03&bg_color=0D1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true" width="95%" />
 
